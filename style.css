@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+body{
+    background-color: rgb(245, 227, 255);
+}
+h4{
+    color: green;
+    text-align: center;
+}
+p{
+    color: red;
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
