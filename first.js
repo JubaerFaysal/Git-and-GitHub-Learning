@@ -35,5 +35,6 @@ console.log(result);
 let user = {
     name: "john",
     age: 30,
-    city: "new york"
+    city: "new york",
+    car:"BMW"
 }
